@@ -1,0 +1,6 @@
+{
+  "name": "My Savings Companion",
+  "description": "Digital record-keeping, offline savings-cycle management, and programme intelligence platform for community savings groups (VSLA, ISAL, SILC) and implementing organizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
